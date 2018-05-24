@@ -1,18 +1,15 @@
 ---
 name: Allscripts
 x-slug: allscripts
-description: Allscripts Healthcare Solutions, Inc. (MDRX-NASDAQ) is a publicly traded
-  American company that provides physician practices, hospitals, and other healthcare
-  providers with practice management and electronic health record technology. Allscripts
-  also provides solutions for patient engagement and care coordination, as well as
-  financial and analytics technology. The company has more than 180,000 physician
-  users and has solutions in 2,700 hospitals and 13,000 extended care organizations.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allscripts-logo.jpg
+description: Take a closer look at Allscripts. Experience how our EHR, financial management,
+  population health management and precision medicine solutions can give you connected
+  information and insights like never before.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8731-allscripts.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "72030"
 tags: Allscripts
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/allscripts/master/_listings/allscripts/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -23,8 +20,14 @@ x-common:
   url: http://blog.allscripts.com/
 - type: x-blog-rss
   url: http://feeds.feedburner.com/AllscriptsBlogItTakesACommunity
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/allscripts
 - type: x-developer
   url: http://developer.allscripts.com/
+- type: x-email
+  url: prsupport@allscripts.com
+- type: x-email
+  url: privacy@allscripts.com
 - type: x-website
   url: http://www.allscripts.com/
 include: []
